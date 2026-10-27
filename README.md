@@ -2,15 +2,15 @@
 
 ## 1. Student Details
 
-- **Name:** Kothapally HariPriya
-- **Registration Number:** 252U1R9075
-- **Section:** GEN AI-2A
-- **Course:** Backend Development Fundamentals
-- **Lab Number:** 01
+ **Name:** Kothapally HariPriya
+ **Registration Number:** 252U1R9075
+-**Section:** GEN AI-2A
+ **Course:** Backend Development Fundamentals
+ **Lab Number:** 01
 
 ## 2. Live Link
 
-**Deployment URL:** 
+**Deployment URL:** https://priya-node-express-lab1.onrender.com
 
 
 Update this section with the public deployment URL after successfully deploying the server.
@@ -33,8 +33,8 @@ To set up a Node.js project, create a basic HTTP server using the built-in `http
 
 ## 6. Project Structure
 
-```text
-Druvathi_Node_Express_Lab1/
+
+priya_Node_Express_Lab1/
 ├── Screenshots/
 │   ├── home.png
 │   ├── about.png
