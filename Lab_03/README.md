@@ -152,7 +152,7 @@ Through this lab, I learned how to:
 
 ## Deployment
 
-**Deployment Link:** 
+**Deployment Link:**  https://priya-node-express-lab1-2.onrender.com/
 
 ## Conclusion
 
