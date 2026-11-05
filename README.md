@@ -10,7 +10,7 @@
 
 ## 2. Live Link
 
-**Deployment URL:** https://priya-node-express-lab1.onrender.com
+**Deployment URL:** https://priya-node-express-lab1-2.onrender.com/
 
 
 Update this section with the public deployment URL after successfully deploying the server.
